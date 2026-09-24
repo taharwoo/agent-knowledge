@@ -1,3 +1,9 @@
+---
+layout: default
+title: Growth Copilot Knowledge
+permalink: /growth/
+---
+
 # Knowledge Pack — Agent 1: W+ Growth Copilot (generalist)
 *Instructions field: common core + the chief-of-staff block (§1 of the setup kit). This file (or its parts) = knowledge. The generalist gets EVERYTHING — it's the cross-connector.*
 
